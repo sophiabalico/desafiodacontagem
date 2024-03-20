@@ -33,3 +33,12 @@ console.log("Total de vogais:" + arrayvogais.length);
 console.log("Consoantes encontradas:" + arrayconsoantes.toString());
 console.log("Total de consoantes:" + arrayconsoantes.length);
 console.log("Total de espaços:" + contadorespaco);
+
+
+//saída esperada:
+//Frase:me chamo sophia ellen dos santos balico
+//Vogais encontradas:e,a,o,o,i,a,e,e,o,a,o,a,i,o
+//Total de vogais:14
+//Consoantes encontradas:m,c,h,m,s,p,h,l,l,n,d,s,s,n,t,s,b,l,c
+//Total de consoantes:19
+//Total de espaços:6
